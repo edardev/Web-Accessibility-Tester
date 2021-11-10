@@ -1,0 +1,16 @@
+{
+  "name": "Web-Accessibility-Tester",
+  "version": "1.0.0",
+  "description": "Website Accessibility Tester with Pa11y",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Website", "Accessibility", "Tester", "Pa11y"],
+  "author": "Edward Almanzar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pa11y": "^6.1.0"
+  }
+}
